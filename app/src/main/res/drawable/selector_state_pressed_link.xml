@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:bottom="7dp"
+        android:top="7dp">
+        <bitmap
+            android:dither="true"
+            android:src="@drawable/abs__list_pressed_holo_dark" />
+    </item>
+
+</layer-list>

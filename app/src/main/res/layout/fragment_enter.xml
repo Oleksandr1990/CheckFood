@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_activity_manual_input_fon"
+    android:clickable="true" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayoutActivityManualInputContent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <EditText
+            android:id="@+id/editTextActivityManualInputEnteredBarcode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/buttonActivityManualInputGetInformation"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="@dimen/edittext_margin_bottom_activity_manual_input"
+            android:layout_marginLeft="@dimen/edittext_margin_left_activity_manual_input"
+            android:layout_marginRight="@dimen/edittext_margin_right_activity_manual_input"
+            android:ems="10"
+            android:gravity="center"
+            android:imeOptions="actionDone"
+            android:inputType="number"
+            android:maxLength="13"
+            android:maxLines="1"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/edittext_text_size_activity_manual_input" >
+        </EditText>
+
+        <Button
+            android:id="@+id/buttonActivityManualInputGetInformation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/button_margin_left_activity_manual_input"
+            android:paddingRight="@dimen/button_margin_right_activity_manual_input"
+            android:text="@string/button_title_activity_manual_input_get_information" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_centerInParent="true"
+
+            android:gravity="center"
+            android:text="@string/textview_title_activity_manual_input_enter_the_barcode"
+            android:textColor="@android:color/white" />
+        <!--  android:background="@drawable/gradient_activity_barcode_information_panel_gray"!-->
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/imageViewActivityManualInputBarcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="@dimen/imageview_margin_left_activity_manual_input"
+        android:layout_marginRight="@dimen/imageview_margin_right_activity_manual_input"
+        android:layout_marginTop="@dimen/imageview_margin_top_activity_manual_input"
+        android:background="@android:color/transparent"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:scaleType="center"
+        android:src="@drawable/ic_barcode_manual_input" />
+
+</FrameLayout>

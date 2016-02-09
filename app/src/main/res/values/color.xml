@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+
+
+
+
+
+
+
+    <color name="color_primary">#d7d7d7</color>
+    <color name="color_gradient_panel_gray_start">#b4b4b4</color>
+    <color name="color_gradient_panel_gray_end">#c7c7c7</color>
+    <color name="color_gradient_panel_green_start">#9fd290</color>
+    <color name="color_gradient_panel_green_end">#89c36f</color>
+    <color name="color_gradient_panel_yellow_start">#e7c95b</color>
+    <color name="color_gradient_panel_yellow_end">#deb53f</color>
+    <color name="color_gradient_panel_orange_start">#e7b15b</color>
+    <color name="color_gradient_panel_orange_end">#dd9a3f</color>
+    <color name="color_gradient_panel_mandarin_start">#e5865a</color>
+    <color name="color_gradient_panel_mandarin_end">#dd663e</color>
+    <color name="color_gradient_panel_red_start">#e76c5c</color>
+    <color name="color_gradient_panel_red_end">#dd4e3e</color>
+
+    <color name="color_gradient_icon_gray_start">#a1a1a1</color>
+    <color name="color_gradient_icon_gray_end">#8d8d8d</color>
+    <color name="color_gradient_icon_green_start">#71b455</color>
+    <color name="color_gradient_icon_green_end">#59a13e</color>
+    <color name="color_gradient_icon_yellow_start">#d4a426</color>
+    <color name="color_gradient_icon_yellow_end">#c78f16</color>
+    <color name="color_gradient_icon_orange_start">#d38226</color>
+    <color name="color_gradient_icon_orange_end">#c46c15</color>
+    <color name="color_gradient_icon_mandarin_start">#d44a25</color>
+    <color name="color_gradient_icon_mandarin_end">#ca3316</color>
+    <color name="color_gradient_icon_red_start">#d53326</color>
+    <color name="color_gradient_icon_red_end">#c82216</color>
+    <color name="color_gradient_icon_black">#272727</color>
+
+    <color name="color_activity_fon_gray">#dedede</color>
+    <color name="color_activity_about_fon">#ebecec</color>
+    <color name="color_activity_settings_fon">#ebecec</color>
+
+    <color name="color_product_name">#333333</color>
+    <color name="color_safe">#B3B4B3</color>
+    <color name="color_danger">#D5623E</color>
+
+    <color name="color_gradient_danger_bar_gray_start">#cdcbcb</color>
+    <color name="color_gradient_danger_bar_gray_end">#e4e4e4</color>
+    <color name="color_gradient_danger_bar_red_start">#db493a</color>
+    <color name="color_gradient_danger_bar_red_end">#ed8677</color>
+    <color name="color_gradient_danger_bar_mandarin_start">#de5832</color>
+    <color name="color_gradient_danger_bar_mandarin_end">#f1956e</color>
+    <color name="color_gradient_danger_bar_orange_start">#dd9034</color>
+    <color name="color_gradient_danger_bar_orange_end">#efc070</color>
+    <color name="color_gradient_danger_bar_yellow_start">#daac34</color>
+    <color name="color_gradient_danger_bar_yellow_end">#ecd36f</color>
+
+    <color name="color_gradient_additive_gray_start">#c7c7c7</color>
+    <color name="color_gradient_additive_gray_end">#b4b4b4</color>
+    <color name="color_gradient_additive_green_start">#89c36f</color>
+    <color name="color_gradient_additive_green_end">#9fd290</color>
+    <color name="color_gradient_additive_yellow_start">#deb53f</color>
+    <color name="color_gradient_additive_yellow_end">#e7c95b</color>
+    <color name="color_gradient_additive_orange_start">#dd9a3f</color>
+    <color name="color_gradient_additive_orange_end">#e7b15b</color>
+    <color name="color_gradient_additive_mandarin_start">#dd663e</color>
+    <color name="color_gradient_additive_mandarin_end">#e5865a</color>
+    <color name="color_gradient_additive_red_start">#dd4e3e</color>
+    <color name="color_gradient_additive_red_end">#e76c5c</color>
+
+    <color name="color_activity_barcode_information_listview_divider">#cccdcd</color>
+
+    <color name="color_activity_manual_input_fon">#ebecec</color>
+
+    <color name="color_gradient_textview_with_shadow_start">#FFFFFFFF</color>
+    <color name="color_gradient_textview_with_shadow_end">#7DFFFFFF</color>
+
+    <color name="color_about_activity_text">#70a3e1</color>
+
+    <color name="color_gradient_product_fon_gray_start">#f4f4f4</color>
+    <color name="color_gradient_product_fon_gray_end">#e9e9e9</color>
+
+    <color name="color_button_style">#404040</color>
+
+    <color name="color_activity_settings_text">#474747</color>
+    <color name="color_activity_settings_divider">#b7b7b7</color>
+    <color name="color_activity_about_button_text_rate">#282828</color>
+    <color name="color_activity_barcode_information_button_text_product_link">#282828</color>
+
+    <color name="color_listview_selector_default">#FFFFFF</color>
+    <color name="color_listview_selector_pressed">#c8ebf8</color>
+
+    <color name="color_button_text_normal">#ff373737</color>
+    <color name="color_button_text_pressed">#ff7a7a7a</color>
+
+
+
+
+
+</resources>

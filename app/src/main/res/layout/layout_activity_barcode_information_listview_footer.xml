@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_activity_fon_gray"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/buttonActivityBarcodeInformationProductLink"
+        android:layout_width="@dimen/button_width_listview_footer_product_link"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/button_margin_top_and_bottom_listview_footer_product_link"
+        android:layout_marginTop="@dimen/button_margin_top_and_bottom_listview_footer_product_link"
+        android:drawableRight="@drawable/ic_additive_arrow"
+        android:paddingLeft="@dimen/button_padding_left_and_right_listview_footer_product_link"
+        android:paddingRight="@dimen/button_padding_left_and_right_listview_footer_product_link"
+        android:text="@string/button_title_activity_barcode_information_more_info" />
+
+</LinearLayout>

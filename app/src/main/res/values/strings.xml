@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CheckFood</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Barcode Scan</item>
+        <item >Manually enter</item>
+        <item >Capture description photo</item>
+
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_barcode</item>
+        <item>@drawable/ic_enter</item>
+        <item>@drawable/ic_capture</item>
+
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+
+
+
+
+
+
+    <string name="preferences_title_barcode_scaned">Sound when determining the barcode</string>
+    <string name="preferences_title_barcode_received_information">Sound when receiving information about the product</string>
+    <string name="menu_title_settings">Settings</string>
+    <string name="menu_title_about">About</string>
+    <string name="textview_title_capture_activity_app_domen">CheckFood.org</string>
+    <string name="textview_title_capture_activity_instruction">Place a barcode under the red line</string>
+    <string name="dialog_message_internet_not_available">No Internet connection</string>
+    <string name="progress_dialog_message_get_info_about_barcode">loading...</string>
+    <string name="dialog_button_title_again">Retry</string>
+    <string name="dialog_button_title_back">Back</string>
+    <string name="dialog_message_server_not_available">Server is temporarily unavailable</string>
+    <string name="dialog_message_barcode_info_not_found">Information not found</string>
+    <string name="textview_title_activity_barcode_information_empty_list">Does not contain additives</string>
+    <string name="button_title_activity_barcode_information_more_info">More info</string>
+    <string name="title_activity_activity_test">ActivityTest</string>
+    <string name="textview_title_activity_barcode_information_panel_product_description_no_info">No information</string>
+    <string name="textview_title_activity_barcode_information_panel_product_description_safe">Does not contain dangerous additives</string>
+    <string name="textview_title_activity_barcode_information_panel_product_description_moderately_dangerous">Contains reasonably dangerous additives</string>
+    <string name="textview_title_activity_barcode_information_panel_product_description_danger">Contains dangerous additives</string>
+    <string name="textview_title_additives_base_adapter_danger_description_no_information">No information</string>
+    <string name="textview_title_additives_base_adapter_danger_description_absolutely_safe">Absolutely safe</string>
+    <string name="textview_title_additives_base_adapter_danger_description_safe">Safe</string>
+    <string name="textview_title_additives_base_adapter_danger_description_moderately_danger">Reasonably dangerous</string>
+    <string name="textview_title_additives_base_adapter_danger_description_danger">Dangerously</string>
+    <string name="textview_title_additives_base_adapter_danger_description_very_danger">Very dangerous</string>
+    <string name="textview_title_additives_base_adapter_not_allowed_in_eu">Not allowed in EU</string>
+    <string name="textview_title_additives_base_adapter_not_allowed_in_russia">Not allowed in Russia</string>
+    <string name="textview_title_additives_base_adapter_not_allowed_in_eu_and_russia">Not allowed in EU and Russia</string>
+    <string name="button_title_activity_manual_input_get_information">Get information</string>
+    <string name="actionbar_title_activity_manual_input_manual_input">Manually enter</string>
+    <string name="textview_title_activity_manual_input_enter_the_barcode">Enter the barcode</string>
+    <string name="toast_title_activity_manual_input_invalid_barcode">Invalid barcode</string>
+    <string name="title_activity_preferences_settings">Settings</string>
+    <string name="actionbar_title_activity_about">About</string>
+    <string name="button_title_activity_about_rate">Rate</string>
+    <string name="textview_title_activity_about_support_email"><u>support@checkfood.org</u></string>
+    <string name="textview_title_activity_about_home_site"><a href="http://checkfood.org"><u>http://checkfood.org</u></a></string>
+    <string name="textview_title_activity_about_rules_of_using"><a href="http://checkfood.org/en/terms"><u>Terms of use</u></a></string>
+    <string name="textview_title_activity_about_privacy"><a href="http://checkfood.org/en/privacy"><u>Privacy policy</u></a></string>
+    <string name="textview_title_activity_about_app_version">Version: %1$s Beta</string>
+
+
+
+</resources>
